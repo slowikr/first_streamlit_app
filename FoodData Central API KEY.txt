@@ -1,0 +1,10 @@
+Your API key for radek.slowik.daugherty@gmail.com is:
+
+rIHg1daU1nPbvB1xAoDyt0wYt97c13dlK5vR1nVX
+You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
+
+https://api.nal.usda.gov/fdc/v1/foods/search?query=apple&pageSize=2&api_key=rIHg1daU1nPbvB1xAoDyt0wYt97c13dlK5vR1nVX
+For additional support, please contact us. When contacting us, please tell us what API you're accessing and provide the following account details so we can quickly find you:
+
+Account Email: radek.slowik.daugherty@gmail.com
+Account ID: be8719f9-6d21-40c1-b9be-b1e1a096d81c
